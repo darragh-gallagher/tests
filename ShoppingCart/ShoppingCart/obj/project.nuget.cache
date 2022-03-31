@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZtRs+6ZSFgYFkEPOKCFEpinuEFTE11Y0czMGHviHqZWaoD9INS97MbvRptSBL2GASh8dca8frgd6H+zaSZABg==",
+  "success": true,
+  "projectFilePath": "/Volumes/Daz/GitHub/Shopping-Cart-2022-MKC-AE-0040-master-2/Shopping-Cart-2022-MKC-AE-0040-master/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "/Users/darragh/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/darragh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
